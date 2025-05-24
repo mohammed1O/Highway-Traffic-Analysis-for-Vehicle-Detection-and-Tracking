@@ -7,7 +7,7 @@ This project uses the YOLO (You Only Look Once) object detection model to detect
 
 
   Libraries  -------------
-YOLOv8: For vehicle detection.
+YOLOv8: For vehicle detection. (download the  file  weight - yolov8l.pt )
 
 OpenCV: For video processing and image manipulation.
 
@@ -41,6 +41,7 @@ File Structure
 How to Run
 Install dependencies as . (all  Libraries)
 {
+downoad yolov8l.pt file  from https://github.com/ultralytics/assets/releases/latest/download/yolov8l.pt  (the weight )
 pip install numpy
 pip install ultralytics
 pip install cvzone
